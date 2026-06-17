@@ -1,6 +1,7 @@
 # Project Overview
 
-This project is a beginner-friendly Terraform implementation of the **"Do it easy"** assignment. The goal is to provision the required AWS infrastructure directly with simple Terraform resources, without using modules, variables, remote state, conditional logic, multiple environments, Docker installation, or Docker containers.
+This project is a beginner-friendly Terraform implementation. 
+The goal is to provision the required AWS infrastructure directly with simple Terraform resources, without using modules, variables, remote state, conditional logic, multiple environments, Docker installation, or Docker containers.
 
 The project creates a basic public web architecture that contains:
 
@@ -952,4 +953,3 @@ This project implements only the **"Do it easy"** requirements.
 | Do not create Dev/Prod environments. | Single flat assignment project | Yes |
 | Do not install or run Docker. | No Docker resources or provisioning | Yes |
 
-This confirms full compliance with the requested **"Do it easy"** assignment scope.
